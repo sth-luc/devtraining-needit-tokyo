@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">512ff9a61be021109f3a8623604bcbfb</copied_from>
+        <description>Log: Test of When needed with a date in the past should fail. Record inserted by test:{{Step 2: Record Insert.Record}}&#13;
+</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 12:30:01</sys_created_on>
+        <sys_id>be12ca6a1be021109f3a8623604bcbf3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_be12ca6a1be021109f3a8623604bcbf3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-25 12:31:25</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Past">2e124a2a1be021109f3a8623604bcbec</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=be12ca6a1be021109f3a8623604bcbf3"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>be12ca6a1be021109f3a8623604bcbf3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 12:30:01</sys_created_on>
+        <sys_id>b212ca6a1be021109f3a8623604bcbf5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-25 12:31:25</sys_updated_on>
+        <value>Test of When needed with a date in the past should fail. Record inserted by test:{{step['2a12ca6a1be021109f3a8623604bcbcc'].record_id}}&#13;
+</value>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=be12ca6a1be021109f3a8623604bcbf3"/>
+    <sys_element_mapping action="DELETE">
+        <field>log</field>
+        <id>be12ca6a1be021109f3a8623604bcbf3</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 12:30:01</sys_created_on>
+        <sys_id>3a12ca6a1be021109f3a8623604bcbf5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-25 12:31:25</sys_updated_on>
+        <table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table>
+        <value>Test of When needed with a date in the past should fail. Record inserted by test:{{step['2a12ca6a1be021109f3a8623604bcbcc'].record_id}}&#13;
+</value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5a764bb9dbc728109a4dcac50596198a</instance_id>
+        <instance_name>dev108051</instance_name>
+        <name>sys_atf_step_be12ca6a1be021109f3a8623604bcbf3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">512ff9a61be021109f3a8623604bcbfb</copied_from><description>Log: Test of When needed with a date in the past should fail. Record inserted by test:{{Step 2: Record Insert.Record}}&#13;
+</description><display_name>Log</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>4</order><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-25 12:30:01</sys_created_on><sys_id>be12ca6a1be021109f3a8623604bcbf3</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_be12ca6a1be021109f3a8623604bcbf3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-25 12:31:25</sys_updated_on><table/><test display_value="When needed - Past">2e124a2a1be021109f3a8623604bcbec</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=be12ca6a1be021109f3a8623604bcbf3"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>be12ca6a1be021109f3a8623604bcbf3</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-25 12:30:01</sys_created_on><sys_id>b212ca6a1be021109f3a8623604bcbf5</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-25 12:31:25</sys_updated_on><value>Test of When needed with a date in the past should fail. Record inserted by test:{{step['2a12ca6a1be021109f3a8623604bcbcc'].record_id}}&#13;
+</value><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=be12ca6a1be021109f3a8623604bcbf3"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>log</field><id>be12ca6a1be021109f3a8623604bcbf3</id><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-25 12:30:01</sys_created_on><sys_id>3a12ca6a1be021109f3a8623604bcbf5</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-25 12:31:25</sys_updated_on><table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table><value>Test of When needed with a date in the past should fail. Record inserted by test:{{step['2a12ca6a1be021109f3a8623604bcbcc'].record_id}}&#13;
+</value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-394887835</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>827b2a111b1c65109f3a8623604bcb3c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 12:31:25</sys_created_on>
+        <sys_id>076242aa1be021109f3a8623604bcb52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185e8e959ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-25 12:31:25</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>0f6242aac6e0211085b14fa31922c151</update_guid>
+        <update_guid_history>0f6242aac6e0211085b14fa31922c151:-394887835,3a12ca6a3fe02110cc4df466a60fb3fc:125804132,7212ca6a2de0211088bb9982469ca9f7:629185918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-25 12:40:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>03334698273540ac81e822d5a69b7849</sys_id>
+        <sys_metadata>be12ca6a1be021109f3a8623604bcbf3</sys_metadata>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_be12ca6a1be021109f3a8623604bcbf3</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_be12ca6a1be021109f3a8623604bcbf3">076242aa1be021109f3a8623604bcb52</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
